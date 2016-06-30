@@ -2,11 +2,16 @@
 
 import re
 import requests
+import time
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 
 class Spider:
     def __init__(self):
-        print u'开始抓取...'
+        pass
 
     def get_source(self, url):
         html = requests.get(url)
@@ -16,7 +21,7 @@ class Spider:
         """
 
         :param source: url对应html文本信息
-        :return: 题目所在body
+        :return: 题目所在范围
         """
         topic_body = re.findall('<tbody>(.*?)</tbody>', source, re.S)
         return topic_body[1]  # topic_body包含两个元素，且topic_body内容为空
@@ -24,8 +29,8 @@ class Spider:
     def get_all_subjects(self, topic_body):
         """
 
-        :param topic_body: 题目所在body
-        :return: 所有题目body列表
+        :param topic_body: 题目所在范围
+        :return: 所有题目范围列表
         """
         all_subjects = re.findall('<tr>(.*?)</tr>', topic_body, re.S)
         return all_subjects
@@ -33,7 +38,7 @@ class Spider:
     def get_content(self, each_subject):
         """
 
-        :param each_subject: 每个题目的body
+        :param each_subject: 每个题目的范围
         :return: 题目信息(编号，题名，准确率，难度)
         """
         subject_info = []
@@ -70,10 +75,14 @@ class Spider:
 
 if __name__ == '__main__':
 
+    print u'开始抓取...'
+    time1 = time.time()
     url = 'https://leetcode.com/problemset/algorithms/'
     leetcode_spider = Spider()
     source = leetcode_spider.get_source(url)
     topic_body = leetcode_spider.get_body(source)
     all_subjects = leetcode_spider.get_all_subjects(topic_body)
     leetcode_spider.save_info(all_subjects)
+    time2 = time.time()
     print u'抓取完毕...'
+    print u'用时: ' + str(time2-time1) + 's'

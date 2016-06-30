@@ -1,92 +1,93 @@
 No	Name	Acceptance	Difficulty
-359	Logger Rate Limiter	57.0%	Easy
-350	Intersection of Two Arrays II	41.4%	Easy
+371	Sum of Two Integers	52.4%	Easy
+359	Logger Rate Limiter	55.9%	Easy
+350	Intersection of Two Arrays II	41.6%	Easy
 349	Intersection of Two Arrays	44.6%	Easy
-346	Moving Average from Data Stream	58.9%	Easy
-345	Reverse Vowels of a String	35.6%	Easy
-344	Reverse String	58.7%	Easy
-342	Power of Four	34.5%	Easy
-339	Nested List Weight Sum	56.2%	Easy
-326	Power of Three	37.5%	Easy
+346	Moving Average from Data Stream	58.2%	Easy
+345	Reverse Vowels of a String	35.8%	Easy
+344	Reverse String	58.8%	Easy
+342	Power of Four	34.7%	Easy
+339	Nested List Weight Sum	56.4%	Easy
+326	Power of Three	37.6%	Easy
 303	Range Sum Query - Immutable	25.1%	Easy
-299	Bulls and Cows	30.6%	Easy
-293	Flip Game	50.5%	Easy
+299	Bulls and Cows	30.7%	Easy
+293	Flip Game	50.6%	Easy
 292	Nim Game	53.6%	Easy
-290	Word Pattern	30.0%	Easy
-288	Unique Word Abbreviation	15.8%	Easy
+290	Word Pattern	30.1%	Easy
+288	Unique Word Abbreviation	15.9%	Easy
 283	Move Zeroes	45.1%	Easy
 278	First Bad Version	22.8%	Easy
-276	Paint Fence	31.5%	Easy
-270	Closest Binary Search Tree Value	35.0%	Easy
-266	Palindrome Permutation	51.2%	Easy
+276	Paint Fence	31.6%	Easy
+270	Closest Binary Search Tree Value	35.1%	Easy
+266	Palindrome Permutation	51.5%	Easy
 263	Ugly Number	37.3%	Easy
-258	Add Digits	49.0%	Easy
-257	Binary Tree Paths	29.6%	Easy
-252	Meeting Rooms	42.3%	Easy
-249	Group Shifted Strings	32.5%	Easy
+258	Add Digits	49.1%	Easy
+257	Binary Tree Paths	29.8%	Easy
+252	Meeting Rooms	42.5%	Easy
+249	Group Shifted Strings	32.7%	Easy
 246	Strobogrammatic Number	37.0%	Easy
 243	Shortest Word Distance	47.3%	Easy
-242	Valid Anagram	42.6%	Easy
-237	Delete Node in a Linked List	44.1%	Easy
-235	Lowest Common Ancestor of a Binary Search Tree	37.6%	Easy
-234	Palindrome Linked List	29.0%	Easy
+242	Valid Anagram	42.7%	Easy
+237	Delete Node in a Linked List	44.2%	Easy
+235	Lowest Common Ancestor of a Binary Search Tree	37.5%	Easy
+234	Palindrome Linked List	29.1%	Easy
 232	Implement Queue using Stacks	34.2%	Easy
-231	Power of Two	37.5%	Easy
-226	Invert Binary Tree	46.5%	Easy
+231	Power of Two	37.6%	Easy
+226	Invert Binary Tree	46.6%	Easy
 225	Implement Stack using Queues	30.7%	Easy
-223	Rectangle Area	30.4%	Easy
-219	Contains Duplicate II	30.4%	Easy
+223	Rectangle Area	30.5%	Easy
+219	Contains Duplicate II	30.5%	Easy
 217	Contains Duplicate	42.0%	Easy
-206	Reverse Linked List	40.4%	Easy
-205	Isomorphic Strings	30.4%	Easy
+206	Reverse Linked List	40.5%	Easy
+205	Isomorphic Strings	30.5%	Easy
 204	Count Primes	25.0%	Easy
 203	Remove Linked List Elements	29.3%	Easy
-202	Happy Number	37.2%	Easy
-198	House Robber	35.1%	Easy
-191	Number of 1 Bits	37.5%	Easy
+202	Happy Number	37.3%	Easy
+198	House Robber	35.2%	Easy
+191	Number of 1 Bits	37.6%	Easy
 190	Reverse Bits	29.4%	Easy
-189	Rotate Array	21.7%	Easy
+189	Rotate Array	21.8%	Easy
 172	Factorial Trailing Zeroes	33.4%	Easy
-171	Excel Sheet Column Number	42.6%	Easy
+171	Excel Sheet Column Number	42.7%	Easy
 170	Two Sum III - Data structure design	23.7%	Easy
-169	Majority Element	42.1%	Easy
-168	Excel Sheet Column Title	22.3%	Easy
-165	Compare Version Numbers	17.9%	Easy
+169	Majority Element	42.2%	Easy
+168	Excel Sheet Column Title	22.4%	Easy
+165	Compare Version Numbers	18.0%	Easy
 160	Intersection of Two Linked Lists	30.4%	Easy
 157	Read N Characters Given Read4	29.4%	Easy
 155	Min Stack	23.1%	Easy
 141	Linked List Cycle	36.5%	Easy
 125	Valid Palindrome	24.2%	Easy
-121	Best Time to Buy and Sell Stock	36.4%	Easy
-119	Pascal&#39;s Triangle II	32.9%	Easy
-118	Pascal&#39;s Triangle	34.1%	Easy
+121	Best Time to Buy and Sell Stock	36.5%	Easy
+119	Pascal&#39;s Triangle II	33.0%	Easy
+118	Pascal&#39;s Triangle	34.2%	Easy
 112	Path Sum	31.7%	Easy
 111	Minimum Depth of Binary Tree	31.0%	Easy
 110	Balanced Binary Tree	34.5%	Easy
-107	Binary Tree Level Order Traversal II	34.6%	Easy
-104	Maximum Depth of Binary Tree	48.5%	Easy
-102	Binary Tree Level Order Traversal	33.5%	Easy
-101	Symmetric Tree	34.5%	Easy
+107	Binary Tree Level Order Traversal II	34.7%	Easy
+104	Maximum Depth of Binary Tree	48.6%	Easy
+102	Binary Tree Level Order Traversal	33.6%	Easy
+101	Symmetric Tree	34.6%	Easy
 100	Same Tree	43.7%	Easy
-88	Merge Sorted Array	30.3%	Easy
-83	Remove Duplicates from Sorted List	37.2%	Easy
+88	Merge Sorted Array	30.4%	Easy
+83	Remove Duplicates from Sorted List	37.3%	Easy
 70	Climbing Stairs	37.2%	Easy
-67	Add Binary	28.1%	Easy
-66	Plus One	34.4%	Easy
-58	Length of Last Word	29.7%	Easy
+67	Add Binary	28.2%	Easy
+66	Plus One	34.5%	Easy
+58	Length of Last Word	29.8%	Easy
 38	Count and Say	29.8%	Easy
-36	Valid Sudoku	31.4%	Easy
-28	Implement strStr()	25.3%	Easy
+36	Valid Sudoku	31.5%	Easy
+28	Implement strStr()	25.4%	Easy
 27	Remove Element	34.6%	Easy
-26	Remove Duplicates from Sorted Array	33.9%	Easy
+26	Remove Duplicates from Sorted Array	34.0%	Easy
 24	Swap Nodes in Pairs	35.7%	Easy
-21	Merge Two Sorted Lists	36.0%	Easy
-20	Valid Parentheses	29.9%	Easy
-19	Remove Nth Node From End of List	30.1%	Easy
+21	Merge Two Sorted Lists	36.1%	Easy
+20	Valid Parentheses	30.0%	Easy
+19	Remove Nth Node From End of List	30.2%	Easy
 14	Longest Common Prefix	28.8%	Easy
-13	Roman to Integer	40.4%	Easy
+13	Roman to Integer	40.5%	Easy
 9	Palindrome Number	32.3%	Easy
 8	String to Integer (atoi)	13.6%	Easy
 7	Reverse Integer	23.7%	Easy
 6	ZigZag Conversion	24.5%	Easy
-1	Two Sum	24.4%	Easy
+1	Two Sum	24.5%	Easy
