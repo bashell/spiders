@@ -1,0 +1,22 @@
+city:南京
+
+date:07-17		day:雷阵雨(32°C )		night:雷阵雨( 24°C)
+
+date:07-18		day:阴(31°C )		night:雷阵雨( 25°C)
+
+date:07-19		day:阴(31°C )		night:雷阵雨( 27°C)
+
+date:07-20		day:雷阵雨(33°C )		night:雷阵雨( 27°C)
+
+date:07-21		day:多云(32°C )		night:多云( 27°C)
+
+date:07-22		day:多云(33°C )		night:多云( 28°C)
+
+date:07-23		day:零散雷雨(33°C )		night:局部多云( 26°C)
+
+date:07-24		day:零散雷雨(32°C )		night:局部雷雨( 26°C)
+
+date:07-25		day:雷雨(32°C )		night:雷雨( 24°C)
+
+date:07-26		day:雷雨(31°C )		night:雷雨( 24°C)
+
